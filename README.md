@@ -42,13 +42,20 @@
 
 ---
 
+## 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pass-os&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Troféus"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pass-os&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pass-os&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas"/>
+  <img src="https://streak-stats.demolab.com?user=Pass-os&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pass-os&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pass-os&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
