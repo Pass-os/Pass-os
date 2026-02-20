@@ -11,8 +11,8 @@
 <h1 align="center">Olá, eu sou o Alex 👋</h1>
 
 <h4 align="center">
-  Desenvolvedor Frontend apaixonado por criar interfaces modernas, acessíveis e com ótima experiência de usuário.<br/>
-  <i>Frontend Developer passionate about building modern and accessible UIs.</i>
+  Front-End Developer apaixonado por interfaces intuitivas e código limpo, com senso de propriedade sobre o produto e atenção ao impacto no negócio.<br/>
+  Experiência sólida em React, TypeScript, hooks e arquitetura de aplicações, contribuindo de forma proativa para soluções com foco em qualidade, performance e usabilidade.
 </h4>
 
 <br/>
