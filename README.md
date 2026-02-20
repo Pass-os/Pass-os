@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github.com/Pass-os/Pass-os/blob/main/README-HEADER.png" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pass-os/Pass-os/blob/main/README-HEADER-DARK.png?raw=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Pass-os/Pass-os/blob/main/README-HEADER.png?raw=true"/>
+    <img src="https://github.com/Pass-os/Pass-os/blob/main/README-HEADER.png?raw=true"/>
+  </picture>
 </p>
 
 <br/>
