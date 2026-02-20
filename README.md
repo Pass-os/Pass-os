@@ -2,52 +2,63 @@
   <img src="https://github.com/Pass-os/Pass-os/blob/main/README-HEADER.png" />
 </p>
 
+<br/>
+
 <h1 align="center">Olá, eu sou o Alex 👋</h1>
 
-<p align="center">
-  Desenvolvedor Frontend apaixonado por criar interfaces modernas, acessíveis e com boa experiência de usuário.
-  <br/>
-  <sub>Frontend Developer passionate about building modern and accessible UIs.</sub>
-</p>
+<h4 align="center">
+  Desenvolvedor Frontend apaixonado por criar interfaces modernas, acessíveis e com ótima experiência de usuário.<br/>
+  <i>Frontend Developer passionate about building modern and accessible UIs.</i>
+</h4>
 
 <br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alex-passos-dev">
-    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=view&color=0A66C2&style=flat&logo=LinkedIn&logoColor=white"/>
-  </a>
-  <a href="mailto:alex.passos.dev@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=E-mail&message=send&color=EA4335&style=flat&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Pass-os?tab=repositories">
-    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repos&color=181717&style=flat&logo=GitHub&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-passos-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.passos.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pass-os?tab=repositories)
+
+</div>
+
+<br/>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-</p>
+<br/>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pass-os&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pass-os&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Pass-os&theme=tokyonight&hide_border=true&locale=pt_BR&border_radius=8" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pass-os&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity Graph"/>
+
+</div>
+
+<br/>
